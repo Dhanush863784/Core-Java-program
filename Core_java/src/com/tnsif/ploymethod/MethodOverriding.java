@@ -27,8 +27,9 @@ public class MethodOverriding {
 
         BankAccount account = new BankAccount();
         account.calculateInterest(10000);
+       
 
-        System.out.println();
+        System.out.println("data enterd");
 
         BankAccount fd = new FixedDeposit();
         fd.calculateInterest(10000);
