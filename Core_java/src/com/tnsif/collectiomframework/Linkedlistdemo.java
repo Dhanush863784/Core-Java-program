@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	LinkedList<String> h=new LinkedList<>();
 	
 	h.add("google");
+	shwgew
 	h.add("youtube");
 	h.add("github");
 	h.add("python");
