@@ -20,7 +20,7 @@ public static void main(String[] args) {
 	
 	h.addLast("postgresql");
 	
-	//view first without removing
+	
 	
 	System.out.println("First "+h.peekFirst());
 	
