@@ -1,10 +1,15 @@
 package com.tnsif.lambdaexp;
+import java.util.Scanner;
+
+interface Square {
+	public void area();
 
 public class AreaofSquare {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner scanner= newScanner
 
 	}
 
+}
 }
